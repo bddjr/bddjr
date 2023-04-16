@@ -1,3 +1,4 @@
 ### 置顶链接
 
-> [用于MCSManager的Nginx反向代理文档](//q8p.cc/proxyformcsm/README.md)
+> [用于MCSManager的Nginx反向代理文档](https://proxyformcsm.bddjr.cn
+)
