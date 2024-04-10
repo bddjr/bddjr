@@ -2,4 +2,4 @@
 
 头像来源：https://www.pixiv.net/artworks/104654157
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
+![](https://raw.githubusercontent.com/bddjr/bddjr/main/assets/github-contribution-grid-snake.svg)  
