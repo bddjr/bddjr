@@ -1,4 +1,4 @@
-[💬 discussions](https://github.com/bddjr/bddjr/discussions)
+[💬 discussions 讨论区](https://github.com/bddjr/bddjr/discussions)
 
 Thank you to everyone who recognized my project!  
 感谢每一个认可我的项目的人！  
